@@ -23,7 +23,7 @@ repository               : "https://sikong206573.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/f1_photo.jpg"
+  avatar           : "images/f1_photo.jpg"
   name             : "Sicong Liang"
   pronouns         : # example: "she/her"  
   bio              : "MSCS studen at TAMU, FLAIR Lab"

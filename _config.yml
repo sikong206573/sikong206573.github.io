@@ -23,14 +23,14 @@ repository               : "https://sikong206573.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "f1_photo.jph"
+  name             : "Sicong Liang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "MSCS studen at TAMU, FLAIR Lab"
+  location         : "College Station, TX"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lsc206573@tamu.edu" 
 
   # Academic websites
   academia         : # URL
